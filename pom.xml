@@ -3,7 +3,7 @@
   <groupId>com.siddu.project</groupId>
   <artifactId>MavenProject</artifactId>  
   <version>v1</version>
-  <dependencies> 
+  <dependencies>
 	  <!-- https://mvnrepository.com/artifact/junit/junit -->
 	<dependency>
 	    <groupId>junit</groupId>
